@@ -10,7 +10,7 @@ from dash import (
 )
 
 
-GITHUB_REPO = "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+GITHUB_REPO = "https://github.com/thesamhith/Titanic-Survival-Analysis"
 
 
 app = Dash(
