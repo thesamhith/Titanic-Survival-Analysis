@@ -161,10 +161,14 @@ The model:
 - should not be interpreted as a historically accurate reconstruction of individual survival decisions;
 - uses accuracy as its primary evaluation metric rather than presenting the model as a production-grade prediction system.
 
+---
+
 ## Try the App
 
 **Live application:**  
-_Add Plotly Cloud URL here after deployment._
+https://p01--titanic-survival-analysis--4nyffjztzxnx.code.run/
+
+---
 
 ## Technologies
 
